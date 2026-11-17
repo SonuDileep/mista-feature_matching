@@ -1,5 +1,3 @@
-# mista-feature_matching
-
 # Mista: Fast and Lightweight Semi-Dense Local Feature Matching
 
 **Sonu Dileep**, Colorado State University
